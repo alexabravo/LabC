@@ -1,2 +1,2 @@
 # Laboratorio C
-Link del video: 
+Link del video: https://youtu.be/kexafE3RAcQ
